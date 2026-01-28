@@ -34,7 +34,7 @@ const music_list = [
         img : './images/2.jpeg',
         name : 'Rang Jo Lagyo',
         artist : '(Chanchal Favourites)',
-        music : 'music/Rang Jo Lagyo.mpeg'
+        music : 'music/Rang Jo Lagyo.mp3'
     },
     {
         img : './images/3.jpeg',
@@ -46,20 +46,20 @@ const music_list = [
         img : './images/4.jpeg',
         name : 'Jeene Laga Hun',
         artist : '(Chanchal Favourites)',
-        music : 'music/Jeene Laga Hun.mpeg'
+        music : 'music/Jeene Laga Hun.mp3'
     },
     {
         img : './images/5.jpeg',
         name : 'Iktara',
         artist : '(Chanchal Favourites)',
-        music : 'music/Iktara.mpeg'
+        music : 'music/Iktara.mp3'
     },
 
     {
         img : './images/6.jpeg',
         name : 'Bakhuda Tumhi Ho',
         artist : '(Chanchal Favourites)',
-        music : 'music/Bakhuda Tumhi Ho.mpeg'
+        music : 'music/Bakhuda Tumhi Ho.mp3'
     },
      {
         img : './images/7.jpeg',
@@ -71,19 +71,19 @@ const music_list = [
         img : './images/8.jpeg',
         name : 'Tu Jaane Na',
         artist : '(Chanchal Favourites)',
-        music : 'music/Tu Jaane Na.mpeg'
+        music : 'music/Tu Jaane Na.mp3'
     },
      {
         img : './images/9.png',
         name : 'Tum Se Hi',
         artist : '(Chanchal Favourites)',
-        music : 'music/Tum Se Hi.mpeg'
+        music : 'music/Tum Se Hi.mp3'
     },
      {
         img : './images/10.png',
         name : 'Tum Mile',
         artist : '(Chanchal Favourites)',
-        music : 'music/Tum Mile.mpeg'
+        music : 'music/Tum Mile.mp3'
     },
 ,
 
